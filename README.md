@@ -1,7 +1,7 @@
 # LeetCode 解题记要
 
-- [461. Hamming Distance](461-hammingdistance)
-- [561. Array Partition I](561-arraypartitioni)
+- [461. Hamming Distance](#461-hamming-distance)
+- [561. Array Partition I](#561-array-partition-i)
 
 ## 461. Hamming Distance
 
