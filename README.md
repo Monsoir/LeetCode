@@ -5,6 +5,7 @@
 - [557. Reverse Words in a String III](./Solutions/557%20Reverse%20Words%20in%20a%20String%20III.md)
 - [476. Number Complement](./Solutions/476%20Number%20Complement.md)
 - [500. Keyboard Row](./Solutions/500%20Keyboard%20Row.md)
+- [412. Fizz Buzz](./Solutions/412%20Fizz%20Buzz.md)
 
 
 
