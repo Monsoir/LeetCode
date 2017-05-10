@@ -6,6 +6,7 @@
 - [476. Number Complement](./Solutions/476%20Number%20Complement.md)
 - [500. Keyboard Row](./Solutions/500%20Keyboard%20Row.md)
 - [412. Fizz Buzz](./Solutions/412%20Fizz%20Buzz.md)
+- [566. Reshape the Matrix](./Solutions/566%20Reshape%20the%20Matrix.md)
 
 
 
