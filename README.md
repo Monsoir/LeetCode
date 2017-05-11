@@ -7,6 +7,7 @@
 - [500. Keyboard Row](./Solutions/500%20Keyboard%20Row.md)
 - [412. Fizz Buzz](./Solutions/412%20Fizz%20Buzz.md)
 - [566. Reshape the Matrix](./Solutions/566%20Reshape%20the%20Matrix.md)
+- [496. Next Greater Element I](./Solutions/496%20Next%20Greater%20Element%20I.md)
 
 
 
